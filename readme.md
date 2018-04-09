@@ -1,15 +1,20 @@
 #mDrawBot ---- Draw Your Own Legend
 
+## Notes for Mac Users
+
+1. Use [Version 1.2.2](http://download.makeblock.com/mdraw/mDraw_V1.2.2_mac.app.zip) - it fixed some issues on firmware update.
+2. If you use Mac Os Sierra, update the serial chip driver [following this guide](http://www.mblock.cc/posts/run-makeblock-ch340-ch341-on-mac-os-sierra). Apple changed the way drivers run.
+
 
 ## What is mDrawBot ?
 
 mDrawbot is a four-in-one drawing robotic kit, you can assembly into 4 different configuration drawing robots: **mScara, mCar, mSpide and mEggBot**. This kit consists of Makeblock parts. We designed a powerful software named mDraw to control these robots, it also can control the XY Plotter V2.0 based on Makeblock platform.
 
-![mDrawBot](http://learn.makeblock.cc/wp-content/uploads/2015/08/B17.png)
+![mDrawBot](http://learn.makeblock.cc/cn/wp-content/uploads/2015/08/B17.png)
 
 This kit consists of over 60 components from Makeblock, including beams, brackets, motor, etc. It also comes with a specially-designed software named mDraw to control these robots. Here's the picture of all the components.
 
-![mDrawBot parts](http://learn.makeblock.cc/wp-content/uploads/2015/08/B02.png)
+![mDrawBot parts](http://learn.makeblock.com/cn/wp-content/uploads/2015/08/B02.png)
 
 #### **mScara**
 
@@ -68,3 +73,5 @@ You can also design your own upgrade pack for your mDrawBot. By adding an [accel
 Use mDraw software, refer to this address: [https://www.youtube.com/watch?v=um0TXejmmmQ](https://www.youtube.com/watch?v=um0TXejmmmQ)
 
 Technical support：[support@makeblock.cc](mailto:support.makeblock.cc)
+
+###Learn more from Makeblock official website: www.makeblock.com
